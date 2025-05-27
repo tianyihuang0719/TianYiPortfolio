@@ -2,7 +2,7 @@
 Career Mentoring and Professional Identity Development
 
 # About Me
-**Hi there, I am Tianyi, or Dio 👋**
+**Hi there, I am Tianyi👋**
 - Senior CS student at UW 💻
 - Working as a TA for Data Structure & Algorithms since 2021 👣
 - Huge fan of Marvel movies and all sorts of TV(sci-fi, drama, sit-con, etc) 📺
