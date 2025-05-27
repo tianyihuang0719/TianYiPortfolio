@@ -10,7 +10,7 @@ Career Mentoring and Professional Identity Development
 - Love gym, video games, and dogs 🐕
 
 # Reflections
-- [#Test 1]([https://github.com/DioFeng/DioFeng.github.io/blob/master/Reflections/%231.md](https://github.com/tianyihuang0719/testRepo))
+- [#Test 1](https://github.com/tianyihuang0719/testRepo)
 - [#2](https://github.com/DioFeng/DioFeng.github.io/blob/master/Reflections/%232.md)
 - [#3](https://github.com/DioFeng/DioFeng.github.io/blob/master/Reflections/%233.md)
 - [#4](https://github.com/DioFeng/DioFeng.github.io/blob/master/Reflections/%234.md)
