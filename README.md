@@ -1,41 +1,44 @@
-# CS386 - Portfolio 
-Career Mentoring and Professional Identity Development
+# CSS496 - Portfolio 
+
 
 # About Me
 **Hi there, I am Tianyi👋**
-- Senior CS student at UW 💻
-- Working as a TA for Data Structure & Algorithms since 2021 👣
+- Senior CS student at UWT 💻
+- Working as a Software testing engineer since 2023 👣
 - Huge fan of Marvel movies and all sorts of TV(sci-fi, drama, sit-con, etc) 📺
-- 2021 goals: learn more skills in cs and get an internship(💔no intern - 2022, April update) 👓
+- 2025 goals: learn more skills in cs and get a promotion in current company 👓
 - Love gym, video games, and dogs 🐕
 
-# Reflections
-- [#Test 1](https://github.com/tianyihuang0719/testRepo)
-- [#2](https://github.com/DioFeng/DioFeng.github.io/blob/master/Reflections/%232.md)
-- [#3](https://github.com/DioFeng/DioFeng.github.io/blob/master/Reflections/%233.md)
-- [#4](https://github.com/DioFeng/DioFeng.github.io/blob/master/Reflections/%234.md)
-- [#5](https://github.com/DioFeng/DioFeng.github.io/blob/master/Reflections/%235.md)
-- [#Reflection 2](https://github.com/DioFeng/DioFeng.github.io/blob/master/Reflections/%236.md)
-- [#6](https://github.com/DioFeng/DioFeng.github.io/blob/master/Reflections/%237.md)
-- [#7](https://github.com/DioFeng/DioFeng.github.io/blob/master/Reflections/%238.md)
-- [#8 - Final Mentor Reflection](https://github.com/DioFeng/DioFeng.github.io/blob/master/Reflections/%239.md)
+# School Projects
+- [#1](https://github.com/tianyihuang0719/A1)
+- [#2](https://github.com/tianyihuang0719/A2)
+- [#3](https://github.com/tianyihuang0719/A3)
+- [#4](https://github.com/tianyihuang0719/A4)
+- [#5](https://github.com/tianyihuang0719/A5)
+- [#6](https://github.com/tianyihuang0719/A6)
 
-Event Reflections
-- [4 in one](https://docs.google.com/document/d/17HYbPCgvWv8XrTwRDK9bHhL2ju0m6s1FVZy0AoFPtLc/edit)
-- [CS Events - CS Department]
-- [CS Events - University]
-- [CS Events - Bay Area/Tech Communities]
-- [CS Events - 20th Annual CS Night]
+# Software testing projects
+- ATT and Criket same platform Porjects:
+SL112A,SL112C
+SN304
+SN509A,SN509C
+SL219A,SL219C
+SN333A/C
+SN512A/C
+- Dish Projects:
+339D Elber and Elber Lite
+SL201D
+SL104D
+- TMO Projects:
+SL006D
+Kooby Eagle
+- Assurance Projects:
+SL003AS
+SL004AS
 
-# Mentoring
-- Sep 29th - Dec 15th, Alyssa Pohahau(Google SDE)
-- Jan 22nd - Now, Ted Bisson(Google SE at VR)
-
-# 2022 Summer To-do list
+# 2025 Summer To-do list
 - [ ] Go-lang/Python learning
 - [ ] React learning
 - [ ] Daily Leetcode 3 questions
-- [ ] Internship searching...
-- [ ] Search Engine project renewal
 - [ ] Travel & relax
 - [ ] Side projects? (Team or solo)
