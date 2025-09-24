@@ -4,9 +4,13 @@
 # About Me
 **Hi there, I am Tianyi👋**
 - Senior CS student at UWT 💻
+
 - Working as a Software testing engineer since 2023 👣
+
 - Huge fan of Marvel movies and all sorts of TV(sci-fi, drama, sit-con, etc) 📺
+
 - 2025 goals: learn more skills in cs and get a promotion in current company 👓
+
 - Love gym, video games, and dogs 🐕
 
 # School Projects
