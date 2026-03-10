@@ -9,7 +9,7 @@
 
 - Huge fan of Marvel movies and all sorts of TV(sci-fi, drama, sit-con, etc) 📺
 
-- 2025 goals: learn more skills in cs and get a promotion in current company 👓
+- 2026 goals: learn more skills in cs and get a promotion in current company 👓
 
 - Love gym, video games, and dogs 🐕
 
@@ -40,7 +40,7 @@ Kooby Eagle
 SL003AS
 SL004AS
 
-# 2025 Summer To-do list
+# 2026 Summer To-do list
 - [ ] Go-lang/Python learning
 - [ ] React learning
 - [ ] Daily Leetcode 3 questions
